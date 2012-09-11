@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The ultimate driving experience", "The ultimate driving experience\The ultimate driving experience\The ultimate driving experience.csproj", "{EC8930A8-772C-4E0A-B79E-D9BB2E58C72F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "The ultimate driving experienceContent", "The ultimate driving experience\The ultimate driving experienceContent\The ultimate driving experienceContent.contentproj", "{30616888-9C5B-478D-9ECE-B2AB19F38D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8930A8-772C-4E0A-B79E-D9BB2E58C72F}.Debug|x86.ActiveCfg = Debug|x86
+		{EC8930A8-772C-4E0A-B79E-D9BB2E58C72F}.Debug|x86.Build.0 = Debug|x86
+		{EC8930A8-772C-4E0A-B79E-D9BB2E58C72F}.Release|x86.ActiveCfg = Release|x86
+		{EC8930A8-772C-4E0A-B79E-D9BB2E58C72F}.Release|x86.Build.0 = Release|x86
+		{30616888-9C5B-478D-9ECE-B2AB19F38D34}.Debug|x86.ActiveCfg = Debug|x86
+		{30616888-9C5B-478D-9ECE-B2AB19F38D34}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
